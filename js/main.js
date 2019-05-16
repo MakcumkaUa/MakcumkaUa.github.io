@@ -1,0 +1,10 @@
+alert('Lets start');
+var firstNum = prompt ('imput first number: ');
+var secondNum = prompt ('imput second number: ');
+var plus = (firstNum * 1) + (secondNum * 1);
+var minus = (firstNum) - (secondNum);
+var division = (firstNum) / (secondNum);
+var multiplication = (firstNum) * (secondNum);
+alert('plus: ' + plus + '; minus: ' + minus + '; division: ' + division + '; multiplication: ' + multiplication + '.');
+console.log ('plus: ' + plus + '; minus: ' + minus + '; division: ' + division + '; multiplication: ' + multiplication + '.');
+alert ('The END, but русский в хроме не работает <- Pyckuu He rabotaet, Xot9 utf-8 ECTb(((');
